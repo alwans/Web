@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ak.AKCar</string>
+				<string>com.cheok.avant</string>
 				<key>bundle-version</key>
-				<string>2.0.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>备胎信用</string>
+				<string>云钱助贷</string>
 			</dict>
 		</dict>
 	</array>
